@@ -1,5 +1,6 @@
 # Tic-Tac-Toe-Bot
-An automatic Tic-Tac-Toe Solver. Features different modes, such as Min-Max and Alpha-Beta Pruning
+An automatic Tic-Tac-Toe Solver. Features different modes, such as Min-Max and Alpha-Beta Pruning </br>
+Developed with PyCharm IDE
 
 # How to Run
 
